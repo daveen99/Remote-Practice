@@ -7,7 +7,10 @@
 
 ``` java
 public class cell extends JPanel{
-    
+    timer tm = new timer();
+    tm.addActionListener(ActionListener{
+        
+    })
 }
 
 ```
