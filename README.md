@@ -3,7 +3,7 @@
 - 메롱시티의 메롱바
 
 ## README 연습
-[구글링크] (https://www.google.com)
+[구글링크] (https://www.daum.com)
 
 ``` java
 public class cell extends JPanel{
